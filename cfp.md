@@ -5,7 +5,7 @@ nav_order: 10
 permalink: /cfp
 ---
 
-# PLACES 2024 Call for Papers
+# PLACES 2025 Call for Papers
 
 ## Important Dates
 
