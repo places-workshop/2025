@@ -9,7 +9,7 @@ permalink: /committees
 
 ## Programme Chairs
 
-- [Jan Hoffman](https://cs.cmu.edu/~janh/), Carnegie Mellon University, US
+- [Jan Hoffmann](https://cs.cmu.edu/~janh/), Carnegie Mellon University, US
 - [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/), Illinois Institute of Technology, US
 
 
