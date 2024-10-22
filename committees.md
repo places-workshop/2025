@@ -5,7 +5,7 @@ nav_order: 20
 permalink: /committees
 ---
 
-# PLACES 2024 Committees
+# PLACES 2025 Committees
 
 ## Programme Chairs
 
