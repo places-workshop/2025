@@ -11,13 +11,13 @@ permalink: /cfp
 
 * Abstract registration deadline: **20 February** 2025, AoE
 * Submission deadline: **1 March** 2025, AoE
-* Author notification: **1 April** 2025, AoE
+* Author notification: **10 April** 2025, AoE
 * Workshop: **4 May** 2025 in Hamilton, Canada
 
 
 ## Submission Instructions
 
-Submission site: TBA
+Submission site: [easychair](https://easychair.org/my/conference?conf=places2025)
 
 
 Submissions are invited in the general area of programming language approaches
