@@ -17,7 +17,7 @@ permalink: /cfp
 
 ## Submission Instructions
 
-Submission site: [easychair](https://easychair.org/my/conference?conf=places2025)
+Submission site: [https://easychair.org/conferences?conf=places2025](https://easychair.org/conferences?conf=places2025)
 
 
 Submissions are invited in the general area of programming language approaches
