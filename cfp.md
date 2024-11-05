@@ -64,6 +64,9 @@ Relevant topics include, but are not limited to:
     management
 
 
-## Proceedings and Journal Special Issue
+## Proceedings 
+The proceedings of PLACES 2025 with accepted research papers will be published
+as a volume of
+[EPTCS](https://eptcs.org/).
 
 
