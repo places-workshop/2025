@@ -10,7 +10,7 @@ permalink: /cfp
 ## Important Dates
 
 * Abstract registration deadline: **20 February** 2025, AoE
-* Submission deadline: **1 March** 2025, AoE
+* Submission deadline: **28 February** 2025, AoE
 * Author notification: **10 April** 2025, AoE
 * Workshop: **4 May** 2025 in Hamilton, Canada
 
