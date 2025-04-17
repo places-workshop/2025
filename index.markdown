@@ -36,5 +36,5 @@ PLACES has had 15 previous iterations; this is the 16th edition.
 ## Highlights
 
 {: .news }
-The [programme](programme-proceedings) of PLACES 2025 are now published.
+The [programme](programme-proceedings) of PLACES 2025 is now published.
 
