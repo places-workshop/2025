@@ -9,7 +9,9 @@ permalink: /programme-proceedings
 
 
 **4 May 2025**<br>
-Location: TBA
+**[Michael DeGroote Centre for Learning and Discovery (MDCL)](https://maps.app.goo.gl/n5xBFFa9BjCy68EZ6), Room: MDCL 1116**
+{:style="font-size:1.5em;"}
+
 
 <table id="programme">
     <tr>
