@@ -34,6 +34,5 @@ PLACES has had 15 previous iterations; this is the 16th edition.
 
 
 ## Highlights
-
 {: .news }
-The [call for papers](cfp) of PLACES 2025 is now published.
+The [programme and proceedings](programme-proceedings) of PLACES 2024 are now published.
