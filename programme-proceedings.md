@@ -27,7 +27,7 @@ permalink: /programme-proceedings
         <td><strong>Keynote talk</strong></td>
         <td>
           <strong><a href="https://www.irif.fr/~gio/index.xhtml">Giovanni Bernardi</a></strong>,
-          Université Paris Didero<br>
+          Université Paris Cité<br>
           <strong><em>TBA</em></strong>
         </td>
     </tr>
