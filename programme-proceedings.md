@@ -28,7 +28,7 @@ permalink: /programme-proceedings
         <td>
           <strong><a href="https://www.irif.fr/~gio/index.xhtml">Giovanni Bernardi</a></strong>,
           Université Paris Cité<br>
-          <strong><em>TBA</em></strong>
+          <strong><em>On the Cost of Software Misbehaviours</em></strong>
         </td>
     </tr>
     <tr class="break">
@@ -114,4 +114,28 @@ permalink: /programme-proceedings
         <td colspan="2">Closing</td>
     </tr>
 </table>
+
+<p>
+<a name="keynote1"></a>
+<strong>Keynote Talk:</strong> <em>On the Cost of Software Misbehaviours</em>
+</p>
+
+<p>
+<a href="https://www.irif.fr/~gio/index.xhtml">Giovanni Bernardi</a> <em>(  Université Paris Cité)</em>
+</p>
+
+<p>
+Software failures pervades our recent history,
+and their costs are staggering, amounting often
+to billions of dollars.
+In this talk I will go through some real world
+failures of software and of software updates,
+motivating the necessity for software analysis.
+I will also highlight (1) the difficulty of analysing
+software, in contrast with other engineering artefacts,
+and (2) the need for reasoning techniques for correct
+software updates.
+The talk is meant to be informal and spur discussion.
+</p>
+
 
