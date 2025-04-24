@@ -27,8 +27,8 @@ permalink: /programme-proceedings
         <td><strong>Keynote talk</strong></td>
         <td>
           <strong><a href="https://www.irif.fr/~gio/index.xhtml">Giovanni Bernardi</a></strong>,
-          Université Paris Cité<br>
-          <strong><em>On the Cost of Software Misbehaviours</em></strong>
+          Université Paris Cité.<br>
+          <strong><em>On the Cost of Software Misbehaviours.</em></strong>
         </td>
     </tr>
     <tr class="break">
