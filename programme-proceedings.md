@@ -103,7 +103,7 @@ permalink: /programme-proceedings
     </tr>
     <tr>
         <td class="time">16:30-17:00</td>
-        <td rowspan="1">Session:<br>Hardware Design<br><br>Chair: TBA</td>
+        <td rowspan="1">Session:<br>Hardware Design<br><br>Chair: Emil Sekerinski</td>
         <td>
          Mads Rosendahl and Maja Hanne Kirkeby.<br>
           <em>Static Communication Analysis for Hardware Design.</em>
