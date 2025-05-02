@@ -37,7 +37,7 @@ permalink: /programme-proceedings
     </tr>
     <tr>
         <td class="time">10:30-11:00</td>
-        <td rowspan="4">Session:<br>Types<br><br>Chair: TBA</td>
+        <td rowspan="4">Session:<br>Types<br><br>Chair: Felix Stutz</td>
         <td>
           Luis Caires.<br>
           <em>Thread and Memory Safe Programming with CLASS.</em>
@@ -70,7 +70,7 @@ permalink: /programme-proceedings
     </tr>
   <tr>
         <td class="time">14:00-14:30</td>
-        <td rowspan="4">Session:<br>Concurrency<br><br>Chair: TBA</td>
+        <td rowspan="4">Session:<br>Concurrency<br><br>Chair: Andrew Hirsch</td>
         <td>
           Felix Stutz and Emanuele D'Osualdo.<br>
           <em>AMP: Automata-based Multiparty Protocols Framework.</em>
