@@ -114,7 +114,6 @@ permalink: /programme-proceedings
         <td colspan="2">Closing</td>
     </tr>
 </table>
-
 <p>
 <a name="keynote1"></a>
 <strong>Keynote Talk:</strong> <em>On the Cost of Software Misbehaviours</em>
@@ -139,3 +138,7 @@ The talk is meant to be informal and spur discussion.
 </p>
 
 
+<p>
+Meeting ID: 949 9852 0111<br>
+Passcode: 774266
+</p>
