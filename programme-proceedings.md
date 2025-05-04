@@ -139,6 +139,8 @@ The talk is meant to be informal and spur discussion.
 
 
 <p>
+<a name="keynote1"></a>
+<strong>Zoom link:</strong>
 Meeting ID: 949 9852 0111<br>
 Passcode: 774266
 </p>
