@@ -51,7 +51,7 @@ permalink: /programme-proceedings
         </td>
     </tr>
     <tr>
-        <td class="time">11:30-12:00</td>
+        <td class="time">12:00-12:30</td>
         <td>
           Bernardo Almeida, Andreia Mordido and Vasco T. Vasconcelos.<br>
           <em>Local Type Inference for Context-Free Session Types.</em>
