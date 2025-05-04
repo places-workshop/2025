@@ -40,7 +40,7 @@ permalink: /programme-proceedings
         <td rowspan="4">Session:<br>Types<br><br>Chair: Felix Stutz</td>
         <td>
           Luis Caires.<br>
-          <em>Thread and Memory Safe Programming with CLASS.</em>
+          <em>Thread and Memory Safe Programming with CLASS (online).</em>
         </td>
     </tr>
     <tr>
