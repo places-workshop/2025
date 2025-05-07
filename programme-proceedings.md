@@ -7,6 +7,8 @@ permalink: /programme-proceedings
 
 # PLACES 2025 Programme and Proceedings
 
+{: .proceedings }
+The pre-final version of the PLACES 2025 proceedings is available at (https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?PLACES2025).
 
 **4 May 2025**<br>
 **[Michael DeGroote Centre for Learning and Discovery (MDCL)](https://maps.app.goo.gl/n5xBFFa9BjCy68EZ6), Room: MDCL 1116**
